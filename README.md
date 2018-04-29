@@ -1,4 +1,4 @@
-# Neural-Network-KSOM-based-Visual-Motor-Coordination-VMC-
+# Neural Network KSOM based Visual Motor Coordination (VMC)
 This work is just implementation of a part of paper "A hybrid neural control scheme for visual-motor coordination"
 L Behera, N Kirubanandan - IEEE control systems, 1999 which was given to us as a course project by our Professor Dr. L Behera
 
