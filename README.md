@@ -5,7 +5,7 @@ L Behera, N Kirubanandan - IEEE control systems, 1999 which was given to us as a
 Here's what is happening..
 We have a 3-link robot manipulator and we want that we just tell it the coordinate where we want to reach and the algorithm gives the
 link angles required so that robotic arm end effector reach that position. The problem is easy if you have the inverse kinematics
-relation but here we do not have that. For 3-link manipulator you may be ale to find one but as the degrees of freedom increase it gets
+relation but here we do not have that. For 3-link manipulator you may be able to find one but as the degrees of freedom increase it gets
 tougher and tougher to find the inverse kinematics hence what we are trying to do is we are making our KSOM to learn the inverse kinematics.
 How it is being achieved, I'll upload the concept soon but right now I'm uploading the code.
 
